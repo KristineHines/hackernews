@@ -7,3 +7,13 @@
 th {
   text-align: left;
 }
+
+#front a {
+  color: red;
+}
+
+li {
+  list-style-type: none;
+  padding: 2px;
+}
+
